@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <h1 align="center"> DevLinks </h1>
 
 <p align="center">
@@ -51,37 +50,3 @@ Esse projeto está sob a licença MIT.
 ---
 
 Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
-=======
-# devlinks.
-Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
-Estude esse projeto em formato de vídeo clicando aqui.
-
-Tecnologias   |    Projeto   |    Layout   |    Licença
-
-License
-
-
-projeto DevLinks
-
-🚀 Tecnologias
-Esse projeto foi desenvolvido com as seguintes tecnologias:
-
-HTML e CSS
-JavaScript
-Git e Github
-Figma
-💻 Projeto
-O DevLinks é um agregador de links para usar como cartão de visitas online.
-
-Acesse o projeto finalizado, online
-
-Assistir aulas
-
-🔖 Layout
-Você pode visualizar o layout do projeto através DESSE LINK. É necessário ter conta no Figma para acessá-lo.
-
-📝 Licença
-Esse projeto está sob a licença MIT.
-
-Feito com ♥ by Rocketseat 👋 Participe da nossa comunidade!
->>>>>>> 7a364454b687f6ee622eea258fd3c8e5c4a21157
